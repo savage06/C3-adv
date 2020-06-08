@@ -1,0 +1,2612 @@
+fileFormatVersion: 2
+guid: ab6db8fbf275cbd4da1aaa62f7afcaba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1519104643240249714
+    second: cutsew_cardigan_0
+  - first:
+      213: 2944886529798537540
+    second: cutsew_cardigan_1
+  - first:
+      213: -565419224493418757
+    second: cutsew_cardigan_2
+  - first:
+      213: -7033101071434267992
+    second: cutsew_cardigan_3
+  - first:
+      213: 8270588565106211585
+    second: cutsew_cardigan_4
+  - first:
+      213: 4106475916666757185
+    second: cutsew_cardigan_5
+  - first:
+      213: 794483962601472975
+    second: cutsew_cardigan_6
+  - first:
+      213: -5857181343675550108
+    second: cutsew_cardigan_7
+  - first:
+      213: -4091869664671071730
+    second: cutsew_cardigan_8
+  - first:
+      213: 7670120392497533048
+    second: cutsew_cardigan_9
+  - first:
+      213: -925484619902556017
+    second: cutsew_cardigan_10
+  - first:
+      213: -4192772248178969424
+    second: cutsew_cardigan_11
+  - first:
+      213: 2816467532888017916
+    second: cutsew_cardigan_12
+  - first:
+      213: -8810713687759579604
+    second: cutsew_cardigan_13
+  - first:
+      213: 7538232867727375737
+    second: cutsew_cardigan_14
+  - first:
+      213: 9043116319344819868
+    second: cutsew_cardigan_15
+  - first:
+      213: -8209362042633714711
+    second: cutsew_cardigan_16
+  - first:
+      213: -176379427610313318
+    second: cutsew_cardigan_17
+  - first:
+      213: -4440000756916024139
+    second: cutsew_cardigan_18
+  - first:
+      213: -4213695884981140271
+    second: cutsew_cardigan_19
+  - first:
+      213: -3904956338370455373
+    second: cutsew_cardigan_20
+  - first:
+      213: 7890212684799481649
+    second: cutsew_cardigan_21
+  - first:
+      213: 4387165739796745896
+    second: cutsew_cardigan_22
+  - first:
+      213: -4766981980929831656
+    second: cutsew_cardigan_23
+  - first:
+      213: 8533066672518935292
+    second: cutsew_cardigan_24
+  - first:
+      213: -4571215779184967540
+    second: cutsew_cardigan_25
+  - first:
+      213: -5037085226561056276
+    second: cutsew_cardigan_26
+  - first:
+      213: 3436653221153890738
+    second: cutsew_cardigan_27
+  - first:
+      213: -7744894833969888394
+    second: cutsew_cardigan_28
+  - first:
+      213: 8406708800400574341
+    second: cutsew_cardigan_29
+  - first:
+      213: 3936215434846140934
+    second: cutsew_cardigan_30
+  - first:
+      213: 5914409412689345689
+    second: cutsew_cardigan_31
+  - first:
+      213: -7700271061624514287
+    second: cutsew_cardigan_32
+  - first:
+      213: -1605226276866711978
+    second: cutsew_cardigan_33
+  - first:
+      213: 3228496521079964459
+    second: cutsew_cardigan_34
+  - first:
+      213: -7224100216629466059
+    second: cutsew_cardigan_35
+  - first:
+      213: 4322204425747585542
+    second: cutsew_cardigan_36
+  - first:
+      213: -9078367356940640107
+    second: cutsew_cardigan_37
+  - first:
+      213: 582385233240522117
+    second: cutsew_cardigan_38
+  - first:
+      213: -5381535499197594427
+    second: cutsew_cardigan_39
+  - first:
+      213: -4681023454275691832
+    second: cutsew_cardigan_40
+  - first:
+      213: -909721566001477116
+    second: cutsew_cardigan_41
+  - first:
+      213: -7581315865825367940
+    second: cutsew_cardigan_42
+  - first:
+      213: 2991880370159797987
+    second: cutsew_cardigan_43
+  - first:
+      213: 966270153124777201
+    second: cutsew_cardigan_44
+  - first:
+      213: -3550955590000678869
+    second: cutsew_cardigan_45
+  - first:
+      213: 6333038469328619256
+    second: cutsew_cardigan_46
+  - first:
+      213: -7162593770133789923
+    second: cutsew_cardigan_47
+  - first:
+      213: 8205673908948139134
+    second: cutsew_cardigan_48
+  - first:
+      213: 6587248020364202121
+    second: cutsew_cardigan_49
+  - first:
+      213: -606892080629300662
+    second: cutsew_cardigan_50
+  - first:
+      213: 5395051275780577074
+    second: cutsew_cardigan_51
+  - first:
+      213: -4465769610501565088
+    second: cutsew_cardigan_52
+  - first:
+      213: -7293351944306949717
+    second: cutsew_cardigan_53
+  - first:
+      213: 2793653073147353002
+    second: cutsew_cardigan_54
+  - first:
+      213: -4328657861788197407
+    second: cutsew_cardigan_55
+  - first:
+      213: 4882334852851826673
+    second: cutsew_cardigan_56
+  - first:
+      213: 5154060738650170755
+    second: cutsew_cardigan_57
+  - first:
+      213: 4613189070538308046
+    second: cutsew_cardigan_58
+  - first:
+      213: -1494437060832281161
+    second: cutsew_cardigan_59
+  - first:
+      213: 1118506793623066806
+    second: cutsew_cardigan_60
+  - first:
+      213: -4154981974576000895
+    second: cutsew_cardigan_61
+  - first:
+      213: 3949924503472166755
+    second: cutsew_cardigan_62
+  - first:
+      213: 613547423031100760
+    second: cutsew_cardigan_63
+  - first:
+      213: -5299406844092319216
+    second: cutsew_cardigan_64
+  - first:
+      213: 1943926685719855942
+    second: cutsew_cardigan_65
+  - first:
+      213: 7668106069135160503
+    second: cutsew_cardigan_66
+  - first:
+      213: 1637126996088636733
+    second: cutsew_cardigan_67
+  - first:
+      213: 7536738340165791020
+    second: cutsew_cardigan_0
+  - first:
+      213: -8512314699397516852
+    second: cutsew_cardigan_1
+  - first:
+      213: 5136259225742435836
+    second: cutsew_cardigan_2
+  - first:
+      213: -7543297705943285981
+    second: cutsew_cardigan_3
+  - first:
+      213: 4963692668252883566
+    second: cutsew_cardigan_4
+  - first:
+      213: -5466931181543105968
+    second: cutsew_cardigan_5
+  - first:
+      213: 1265731666475891503
+    second: cutsew_cardigan_6
+  - first:
+      213: 115787623838116482
+    second: cutsew_cardigan_7
+  - first:
+      213: 1288269803517573572
+    second: cutsew_cardigan_8
+  - first:
+      213: 1199646422598813277
+    second: cutsew_cardigan_9
+  - first:
+      213: 5857820213939156994
+    second: cutsew_cardigan_10
+  - first:
+      213: 4713188197273250389
+    second: cutsew_cardigan_11
+  - first:
+      213: -1273927985412500240
+    second: cutsew_cardigan_12
+  - first:
+      213: 1644967027024784459
+    second: cutsew_cardigan_13
+  - first:
+      213: -3218649337260499795
+    second: cutsew_cardigan_14
+  - first:
+      213: -2165552202327779684
+    second: cutsew_cardigan_15
+  - first:
+      213: 5613547086304071638
+    second: cutsew_cardigan_16
+  - first:
+      213: 2488019886153447563
+    second: cutsew_cardigan_17
+  - first:
+      213: 1015576880648168622
+    second: cutsew_cardigan_18
+  - first:
+      213: 6498560172210146600
+    second: cutsew_cardigan_19
+  - first:
+      213: -3312732024032686678
+    second: cutsew_cardigan_20
+  - first:
+      213: -1520716060103604537
+    second: cutsew_cardigan_21
+  - first:
+      213: -601131641980184220
+    second: cutsew_cardigan_22
+  - first:
+      213: 2060265536055333645
+    second: cutsew_cardigan_23
+  - first:
+      213: 6132484389902848416
+    second: cutsew_cardigan_24
+  - first:
+      213: 8641776296066827511
+    second: cutsew_cardigan_25
+  - first:
+      213: -1529381003717859131
+    second: cutsew_cardigan_26
+  - first:
+      213: -4962629096989688104
+    second: cutsew_cardigan_27
+  - first:
+      213: 3527515468318021427
+    second: cutsew_cardigan_28
+  - first:
+      213: -5402889461979543398
+    second: cutsew_cardigan_29
+  - first:
+      213: -4482200910855521346
+    second: cutsew_cardigan_30
+  - first:
+      213: -8779028441226384133
+    second: cutsew_cardigan_31
+  - first:
+      213: -3204413269042477506
+    second: cutsew_cardigan_32
+  - first:
+      213: 4885054466917010542
+    second: cutsew_cardigan_33
+  - first:
+      213: -7313969310495018382
+    second: cutsew_cardigan_34
+  - first:
+      213: 7787416941081290725
+    second: cutsew_cardigan_35
+  - first:
+      213: -9108769330385200621
+    second: cutsew_cardigan_36
+  - first:
+      213: -5501703403858547729
+    second: cutsew_cardigan_37
+  - first:
+      213: 7084101660005830350
+    second: cutsew_cardigan_38
+  - first:
+      213: -8518054345074029578
+    second: cutsew_cardigan_39
+  - first:
+      213: 6465684429026559113
+    second: cutsew_cardigan_40
+  - first:
+      213: -1500167844213547836
+    second: cutsew_cardigan_41
+  - first:
+      213: 8078935877209020370
+    second: cutsew_cardigan_42
+  - first:
+      213: -1083865759041998689
+    second: cutsew_cardigan_43
+  - first:
+      213: 2804600145086922441
+    second: cutsew_cardigan_44
+  - first:
+      213: -851002366613149967
+    second: cutsew_cardigan_45
+  - first:
+      213: -4659145024356486709
+    second: cutsew_cardigan_46
+  - first:
+      213: -566624209366864470
+    second: cutsew_cardigan_47
+  - first:
+      213: 3416257212011091691
+    second: cutsew_cardigan_48
+  - first:
+      213: -5160817089457239265
+    second: cutsew_cardigan_49
+  - first:
+      213: 5362982201176059675
+    second: cutsew_cardigan_50
+  - first:
+      213: -1307720076710669776
+    second: cutsew_cardigan_51
+  - first:
+      213: -2834237238826914275
+    second: cutsew_cardigan_52
+  - first:
+      213: 4600278519084173349
+    second: cutsew_cardigan_53
+  - first:
+      213: 3166702440093117403
+    second: cutsew_cardigan_54
+  - first:
+      213: 5533110215475337250
+    second: cutsew_cardigan_55
+  - first:
+      213: -8774246668435999713
+    second: cutsew_cardigan_56
+  - first:
+      213: 1353614118211550757
+    second: cutsew_cardigan_57
+  - first:
+      213: -1669009644417407130
+    second: cutsew_cardigan_58
+  - first:
+      213: -9195437407109035973
+    second: cutsew_cardigan_59
+  - first:
+      213: 8482076396456961391
+    second: cutsew_cardigan_60
+  - first:
+      213: -5439474926213138297
+    second: cutsew_cardigan_61
+  - first:
+      213: -7816765844744384666
+    second: cutsew_cardigan_62
+  - first:
+      213: -6856789169003338190
+    second: cutsew_cardigan_63
+  - first:
+      213: -627255961754505948
+    second: cutsew_cardigan_64
+  - first:
+      213: -8983670050716550995
+    second: cutsew_cardigan_65
+  - first:
+      213: 1111711055631954017
+    second: cutsew_cardigan_66
+  - first:
+      213: -494010566402465187
+    second: cutsew_cardigan_67
+  - first:
+      213: 767473318826837371
+    second: cutsew_cardigan_68
+  - first:
+      213: -2852386477602842301
+    second: cutsew_cardigan_69
+  - first:
+      213: 228922255784169828
+    second: cutsew_cardigan_70
+  - first:
+      213: -4558492434150203397
+    second: cutsew_cardigan_71
+  - first:
+      213: -1539395922419922160
+    second: cutsew_cardigan_72
+  - first:
+      213: -8104464833218762914
+    second: cutsew_cardigan_73
+  - first:
+      213: 8576192626986715031
+    second: cutsew_cardigan_74
+  - first:
+      213: -4497314703439419194
+    second: cutsew_cardigan_75
+  - first:
+      213: 4302390720746753496
+    second: cutsew_cardigan_76
+  - first:
+      213: 830601914612894706
+    second: cutsew_cardigan_77
+  - first:
+      213: -7186297643844136063
+    second: cutsew_cardigan_78
+  - first:
+      213: 4525252995171713918
+    second: cutsew_cardigan_79
+  - first:
+      213: 1594250109318737256
+    second: cutsew_cardigan_80
+  - first:
+      213: -8565351630674711350
+    second: cutsew_cardigan_81
+  - first:
+      213: 4843575659074480210
+    second: cutsew_cardigan_82
+  - first:
+      213: 5424937190941780754
+    second: cutsew_cardigan_83
+  - first:
+      213: 5373040983517331355
+    second: cutsew_cardigan_84
+  - first:
+      213: 151085097074444693
+    second: cutsew_cardigan_85
+  - first:
+      213: -1680915038529562312
+    second: cutsew_cardigan_86
+  - first:
+      213: 84158859520751719
+    second: cutsew_cardigan_87
+  - first:
+      213: 8290009657286710848
+    second: cutsew_cardigan_88
+  - first:
+      213: -9147107083415635352
+    second: cutsew_cardigan_89
+  - first:
+      213: 5855398619258334007
+    second: cutsew_cardigan_90
+  - first:
+      213: -6689117793944471997
+    second: cutsew_cardigan_91
+  - first:
+      213: -557306827004572793
+    second: cutsew_cardigan_92
+  - first:
+      213: 157285168140346750
+    second: cutsew_cardigan_93
+  - first:
+      213: 7236332980674082778
+    second: cutsew_cardigan_94
+  - first:
+      213: -9109621446889815333
+    second: cutsew_cardigan_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cutsew_cardigan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d26aac69fd79860800000000000000
+      internalID: 7536738340165791020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1331e81ee2ed980800000000000000
+      internalID: -8512314699397516852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf563b08d88a74740800000000000000
+      internalID: 5136259225742435836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3b3ad3b2d05790800000000000000
+      internalID: -7543297705943285981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8c69de2492e440800000000000000
+      internalID: 4963692668252883566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05add903e0f8124b0800000000000000
+      internalID: -5466931181543105968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b32499e38c09110800000000000000
+      internalID: 1265731666475891503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae14cfa3c5b9100800000000000000
+      internalID: 115787623838116482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f68d8f8ad0e110800000000000000
+      internalID: 1288269803517573572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56021bb01006a010800000000000000
+      internalID: 1199646422598813277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20832f1d2782b4150800000000000000
+      internalID: 5857820213939156994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2902a1bb986140800000000000000
+      internalID: 4713188197273250389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41f003f39125ee0800000000000000
+      internalID: -1273927985412500240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cea01bbc814d610800000000000000
+      internalID: 1644967027024784459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9a0c1b7f0553d0800000000000000
+      internalID: -3218649337260499795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9610bddeb962f1e0800000000000000
+      internalID: -2165552202327779684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4519455357ed40800000000000000
+      internalID: 5613547086304071638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b84487e8378220800000000000000
+      internalID: 2488019886153447563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4222dcacd081e00800000000000000
+      internalID: 1015576880648168622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4618bb068f2a50800000000000000
+      internalID: 6498560172210146600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad887796cfc602d0800000000000000
+      internalID: -3312732024032686678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c60b49ecc455eae0800000000000000
+      internalID: -1520716060103604537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691680e4f958a7f0800000000000000
+      internalID: -601131641980184220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03de8bd698879c10800000000000000
+      internalID: 2060265536055333645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a199c2bf06fa1550800000000000000
+      internalID: 6132484389902848416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4447351c1cde770800000000000000
+      internalID: 8641776296066827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8aa23841c86cae0800000000000000
+      internalID: -1529381003717859131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de79e12123312bb0800000000000000
+      internalID: -4962629096989688104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379accf0a044f030800000000000000
+      internalID: 3527515468318021427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98020af8a41505b0800000000000000
+      internalID: -5402889461979543398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb3680f4060cc1c0800000000000000
+      internalID: -4482200910855521346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc66af5520aa2680800000000000000
+      internalID: -8779028441226384133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36cc290c13a783d0800000000000000
+      internalID: -3204413269042477506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0601d7233bc340800000000000000
+      internalID: 4885054466917010542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f5d5c9af8f7a90800000000000000
+      internalID: -7313969310495018382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7620bc276721c60800000000000000
+      internalID: 7787416941081290725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ada69ed86279180800000000000000
+      internalID: -9108769330385200621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb247947e506a3b0800000000000000
+      internalID: -5501703403858547729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece07653de8cf4260800000000000000
+      internalID: 7084101660005830350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc36824bac9c980800000000000000
+      internalID: -8518054345074029578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98407e54bb9bab950800000000000000
+      internalID: 6465684429026559113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc103e3b455e2be0800000000000000
+      internalID: -1500167844213547836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d33450652e1070800000000000000
+      internalID: 8078935877209020370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b710b5d555f0f0800000000000000
+      internalID: -1083865759041998689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3ae8f8f0fbe620800000000000000
+      internalID: 2804600145086922441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a10b3bd1a034f0800000000000000
+      internalID: -851002366613149967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f33a1944675fb0800000000000000
+      internalID: -4659145024356486709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2d8f9842f228f0800000000000000
+      internalID: -566624209366864470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6994f85dbf86f20800000000000000
+      internalID: 3416257212011091691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc22843381168b0800000000000000
+      internalID: -5160817089457239265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f67ddc5e32d6a40800000000000000
+      internalID: 5362982201176059675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329302d48b0adde0800000000000000
+      internalID: -1307720076710669776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea98a6f34caa8d0800000000000000
+      internalID: -2834237238826914275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284fd590f877df30800000000000000
+      internalID: 4600278519084173349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbec13671362fb20800000000000000
+      internalID: 3166702440093117403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281e70ec6e89cc40800000000000000
+      internalID: 5533110215475337250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b73c942d9b3680800000000000000
+      internalID: -8774246668435999713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef3f66ed009c210800000000000000
+      internalID: 1353614118211550757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667acc9329c76d8e0800000000000000
+      internalID: -1669009644417407130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384de2d56e336080800000000000000
+      internalID: -9195437407109035973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ea88ea8366b570800000000000000
+      internalID: 8482076396456961391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fb6acf5a1384b0800000000000000
+      internalID: -5439474926213138297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fca9311e4458390800000000000000
+      internalID: -7816765844744384666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366fc1649ac7d0a0800000000000000
+      internalID: -6856789169003338190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d6060b60a8b47f0800000000000000
+      internalID: -627255961754505948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da879b7bfa7935380800000000000000
+      internalID: -8983670050716550995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16031d3a0579d6f00800000000000000
+      internalID: 1111711055631954017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52aa4ad10ce429f0800000000000000
+      internalID: -494010566402465187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75834fcaec96aa00800000000000000
+      internalID: 767473318826837371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349da587c994a68d0800000000000000
+      internalID: -2852386477602842301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4615239249b4d2300800000000000000
+      internalID: 228922255784169828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdb27784bfcb0c0800000000000000
+      internalID: -4558492434150203397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc97b8097f2aae0800000000000000
+      internalID: -1539395922419922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a9596c28278f80800000000000000
+      internalID: -8104464833218762914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970ed071c1c40770800000000000000
+      internalID: 8576192626986715031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82a52ea145691c0800000000000000
+      internalID: -4497314703439419194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0c03c09925bb30800000000000000
+      internalID: 4302390720746753496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc2466a04e68b00800000000000000
+      internalID: 830601914612894706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18391781e54254c90800000000000000
+      internalID: -7186297643844136063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738bff8f9decce30800000000000000
+      internalID: 4525252995171713918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2219170aef1610800000000000000
+      internalID: 1594250109318737256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2255b212c12980800000000000000
+      internalID: -8565351630674711350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ecd94666d73340800000000000000
+      internalID: 4843575659074480210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be3e2f1af394b40800000000000000
+      internalID: 5424937190941780754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f7a229e40e09a40800000000000000
+      internalID: 5373040983517331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5994af56813c81200800000000000000
+      internalID: 151085097074444693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83955d6ada03ca8e0800000000000000
+      internalID: -1680915038529562312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768bf6e690efa2100800000000000000
+      internalID: 84158859520751719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d1276cd70c0370800000000000000
+      internalID: 8290009657286710848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3d823292fe0180800000000000000
+      internalID: -9147107083415635352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba43f550e824150800000000000000
+      internalID: 5855398619258334007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346f13f8eca7b23a0800000000000000
+      internalID: -6689117793944471997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0e71c46c0448f0800000000000000
+      internalID: -557306827004572793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75617fe60ace2200800000000000000
+      internalID: 157285168140346750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b585918e9c6460800000000000000
+      internalID: 7236332980674082778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutsew_cardigan_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd24ad31f8f149180800000000000000
+      internalID: -9109621446889815333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
